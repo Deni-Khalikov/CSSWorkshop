@@ -3,8 +3,6 @@ Becode workshop for CSS
 
 ---
 
-# Advanced CSS
-
 ## Back to basics
 
 Before you can start to get all creative with shapes in CSS, one of the most important things you have to know beforehand is the difference between and the use of position: absolute and position: relative.
