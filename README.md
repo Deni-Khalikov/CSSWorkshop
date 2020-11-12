@@ -1,4 +1,4 @@
-# CSSWorkshop
+# CSS Workshop
 Becode workshop for CSS
 
 ---
@@ -14,3 +14,9 @@ Without any custom styling, the standard position of elements will be static. Be
 <img src="pos-static.png" alt="Example position static" width="500px" height="">
 <img src="pos-relative.png" alt="Example position relative" width="500px" height="">
 <img src="pos-absolute.png" alt="Example position absolute" width="500px" height="">
+
+You can read [this](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) article if you want more information about the position property.
+
+### CSS Shapes
+
+You might have come across illustrations built entirely with css or visited websites that use all kinds of shapes. If they aren't images, they probably are built with CSS. Basic shapes like squares, rectangles, triangles, etc. are easy to code but if you want a reference guide for all kinds of basic shapes, you can see them here: [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
