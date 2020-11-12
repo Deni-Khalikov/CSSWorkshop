@@ -21,14 +21,6 @@ Without any custom styling, the standard position of elements will be static. Be
 You can read [this](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) article if you want more information about the position property.
 
 If you're more of a visual/video type of person, you can look at [this](https://www.youtube.com/watch?v=3PDQDRJq5Ls) short explanation video about absolute vs relative positioning in CSS.
-CSS-Tricks
-Chris Coyier
-Absolute, Relative, Fixed Positioning: How Do They Differ? | CSS-Tr...
-Let's talk about the position property. I know beginners are curious about this. Here's a question I got recently: I am fairly new to web design, and
-
-YouTube
-Red Stapler
-CSS Absolute vs Relative Position EXPLAINED!
 
 ## CSS Shapes
 
@@ -50,15 +42,3 @@ Below you can find some nice and short tutorials that show you some illustration
 [Toaster](https://www.youtube.com/watch?v=G0HtHr46Awg&t=9s)
 <br>
 [Interactive TV](https://www.youtube.com/watch?v=rdjub7lr4C8)
-CSS-Tricks
-Chris Coyier
-The Shapes of CSS | CSS-Tricks
-CSS is capable of making all sorts of shapes. Squares and rectangles are easy, as they are the natural shapes of the web. Add a width and height and you
-
-YouTube
-Lenora Porter
-Codepen CSS Animation | Convert Figma Illustration into Code
-
-YouTube
-Coding Artist
-CSS Toaster Animation | CSS Speed Art
