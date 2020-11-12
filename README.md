@@ -20,3 +20,10 @@ You can read [this](https://css-tricks.com/absolute-relative-fixed-positioining-
 ### CSS Shapes
 
 You might have come across illustrations built entirely with css or visited websites that use all kinds of shapes. If they aren't images, they probably are built with CSS. Basic shapes like squares, rectangles, triangles, etc. are easy to code but if you want a reference guide for all kinds of basic shapes, you can see them here: [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+
+### Example of an iPhone built with CSS shapes/animations:
+[link to the repo](https://github.com/jeremiaverhulst/css-illustrations)
+<br>
+[link to the live example](https://jeremiaverhulst.github.io/css-illustrations/)
+<br>
+<img src="iphone_v4.png" alt="iPhone 12" width="450px" height="">
